@@ -1,7 +1,12 @@
 {
-  "main.css": "static/css/main.c17080f1.css",
-  "main.css.map": "static/css/main.c17080f1.css.map",
-  "main.js": "static/js/main.4a864d32.js",
-  "main.js.map": "static/js/main.4a864d32.js.map",
-  "static\\media\\logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "static/css/main.45e2660d.css",
+  "main.css.map": "static/css/main.45e2660d.css.map",
+  "main.js": "static/js/main.ec44ce39.js",
+  "main.js.map": "static/js/main.ec44ce39.js.map",
+  "static\\media\\document.svg": "static/media/document.985c8a41.svg",
+  "static\\media\\envelope.svg": "static/media/envelope.c7609c7d.svg",
+  "static\\media\\linkedin.svg": "static/media/linkedin.00f7bf1d.svg",
+  "static\\media\\map.svg": "static/media/map.046af09f.svg",
+  "static\\media\\shuffleboard.PNG": "static/media/shuffleboard.36e444f5.PNG",
+  "static\\media\\spotify.svg": "static/media/spotify.9329e836.svg"
 }
