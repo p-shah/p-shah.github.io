@@ -1,12 +1,14 @@
 {
-  "main.css": "static/css/main.45e2660d.css",
-  "main.css.map": "static/css/main.45e2660d.css.map",
-  "main.js": "static/js/main.0ce53108.js",
-  "main.js.map": "static/js/main.0ce53108.js.map",
+  "main.css": "static/css/main.674c8db4.css",
+  "main.css.map": "static/css/main.674c8db4.css.map",
+  "main.js": "static/js/main.97c3deef.js",
+  "main.js.map": "static/js/main.97c3deef.js.map",
+  "static\\media\\Resume.pdf": "static/media/Resume.411547f9.pdf",
   "static\\media\\document.svg": "static/media/document.985c8a41.svg",
+  "static\\media\\dribbble.svg": "static/media/dribbble.40549421.svg",
   "static\\media\\envelope.svg": "static/media/envelope.c7609c7d.svg",
   "static\\media\\linkedin.svg": "static/media/linkedin.00f7bf1d.svg",
   "static\\media\\map.svg": "static/media/map.046af09f.svg",
-  "static\\media\\shuffleboard.PNG": "static/media/shuffleboard.36e444f5.PNG",
+  "static\\media\\me.png": "static/media/me.6574bd1d.png",
   "static\\media\\spotify.svg": "static/media/spotify.9329e836.svg"
 }
