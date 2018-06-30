@@ -5,11 +5,12 @@ import spotify from 'images/spotify.svg';
 import mail from 'images/envelope.svg';
 import resume from 'images/document.svg';
 import dribbble from 'images/dribbble.svg';
+import pdf from 'Resume.pdf';
 
 class IconBar extends Component {
   render() {
     return (
-      <div className="icon-block col-md-offset-2">
+      <div className="icon-bar col-md-offset-2">
         <a href="mailto:pdshah6@gmail.com">
           <img className="icon" src={mail} alt="gmail" />
         </a>
@@ -34,7 +35,7 @@ class IconBar extends Component {
         >
           <img className="icon" src={dribbble} alt="dribbble" />
         </a>
-        <a href="" rel="noopener noreferrer" target="_blank">
+        <a href={pdf} rel="noopener noreferrer" target="_blank">
           <img className="icon" src={resume} alt="resume" />
         </a>
       </div>

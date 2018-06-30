@@ -23,11 +23,12 @@ class About extends Component {
               I graduated from Drexel University in 2016 with a Bachelor's in
               Computer and Electrical Engineering. I am currently pursing my
               Master's in Computer Science at Villanova University. As a
-              lifelong critic of tech, I want to push the envelope using data
-              and design. In doing so, I strive to create clean and structured
-              code with a purpose. Throughout my career so far, I have had the
-              ability to develop an UI in AngularJS, build out RESTful APIs with
-              Spring, write bash scripts using Hadoop on AWS.
+              lifelong critic of technology, I enjoy experimenting with the
+              latest and greatest. I want to push the envelope using data and
+              design. In doing so, I strive to create clean and structured code
+              with a purpose. Throughout my career, I have had theability to
+              develop an UI in AngularJS, build out RESTful APIs with Spring,
+              and write bash scripts using Hadoop on AWS.
             </p>
           </Well>
         </div>
