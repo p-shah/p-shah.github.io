@@ -1,17 +1,17 @@
 import React, { Component } from 'react';
 import { Well } from 'react-bootstrap';
 import IconBar from 'components/IconBar.js';
-import shuffleboard from 'images/shuffleboard.PNG';
+import me from 'images/me.png';
 
 class About extends Component {
   render() {
     return (
-      <div class="row">
-        <div class="col-md-4">
-          <img className="img-responsive shadow" src={shuffleboard} alt="me" />
+      <div className="row">
+        <div className="col-md-4">
+          <img className="img-responsive shadow" src={me} alt="me" />
           <IconBar />
         </div>
-        <div class="col-md-8">
+        <div className="col-md-8">
           <h1 className="page-header">
             Welcome. <small>Happy to have you here!</small>
           </h1>
