@@ -11,7 +11,8 @@
 .description-card {
   width: 95%;
   float: left;
-  border: 3px dashed #ff6361;
+  border-bottom: 2px solid #ff6361;
+  border-right: 2px solid #ff6361;
 }
 
 h3 {
@@ -27,7 +28,7 @@ p {
 }
 
 .icon-bar {
-  margin: 0 auto;
+  margin: 10px auto;
   float: none;
 }
 
