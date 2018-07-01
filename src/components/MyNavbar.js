@@ -12,7 +12,7 @@ class MyNavbar extends Component {
         </Navbar.Header>
         <Nav pullRight>
           <NavItem href="https://www.uwishunu.com/">
-            <img className="icon" src={location} alt="locations" />
+            <img className="icon" src={location} alt="location" />
             Philadelphia, PA
           </NavItem>
         </Nav>
