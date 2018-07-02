@@ -29,13 +29,7 @@ class About extends Component {
             Welcome. <small>Happy to have you here!</small>
           </h1>
           {cards.map((card, index) => {
-            return (
-              <DescriptionCard
-                key={index}
-                title={card.title}
-                description={card.description}
-              />
-            );
+            return <DescriptionCard key={index} {...card} />;
           })}
         </div>
       </div>
