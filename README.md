@@ -5,4 +5,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] Switch to .scss
 - [ ] Play with Redux?
 - [ ] Portfolio?
-- [ ] Portfolio?
