@@ -32,6 +32,7 @@ class IconBar extends Component {
         image: require('images/document.svg')
       }
     ];
+
     return (
       <div className="icon-bar col-md-offset-2">
         {icons.map((icon, index) => {

@@ -8,8 +8,8 @@ class About extends Component {
     const cards = [
       {
         title: 'About Me.',
-        description: `I graduated from Drexel University in 2016 with a Bachelor's in
-        Computer and Electrical Engineering. I am currently pursing my
+        description: `I graduated from Drexel University in 2016 with a Bachelor's
+        in Computer and Electrical Engineering. I am currently pursuing my
         Master's in Computer Science at Villanova University. As a
         lifelong critic of technology, I enjoy experimenting with the
         latest and greatest. I want to push the envelope using data and
