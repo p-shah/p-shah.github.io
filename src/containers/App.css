@@ -4,10 +4,6 @@
   font-family: 'Encode Sans Condensed', serif;
 }
 
-.img-responsive {
-  max-width: 100%;
-}
-
 .description-card {
   width: 95%;
   float: left;
