@@ -7,8 +7,8 @@
 .description-card {
   width: 95%;
   float: left;
-  border-bottom: 2px solid #ff6361;
-  border-right: 2px solid #ff6361;
+  border-bottom: 2px solid #71c272;
+  border-right: 2px solid #71c272;
 }
 
 h3 {
@@ -40,11 +40,6 @@ p {
   opacity: 0.5;
 }
 
-.navbar-default {
-  font-size: 20px;
-  border-bottom: 5px dashed #ff6361;
-}
-
 .shadow {
   padding: 10px;
   box-shadow: 5px 10px 18px #888888;
@@ -56,11 +51,15 @@ p {
   text-align: left;
 }
 
-.navbar-default .navbar-brand {
-  font-family: 'Acme', serif;
-  font-size: 50px;
-  vertical-align: middle;
-  display: inline-block;
-  margin-top: 15px;
-  color: #000;
+.name {
+  font-family: 'Bangers', cursive;
+  font-size: 75px;
+}
+
+h4 {
+  font-family: 'Cantarell', sans-serif;
+}
+
+.green {
+  color: #71c272;
 }

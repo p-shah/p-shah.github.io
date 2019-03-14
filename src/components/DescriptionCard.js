@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
-import { Well } from 'react-bootstrap';
+import Paper from '@material-ui/core/Paper';
 
 class DescriptionCard extends Component {
   render() {
     return (
-      <Well className="description-card shadow">
+      <Paper className="description-card shadow">
         <h3>
           <b>{this.props.title}</b>
         </h3>
         <p>{this.props.description}</p>
-      </Well>
+      </Paper>
     );
   }
 }
