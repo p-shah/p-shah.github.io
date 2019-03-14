@@ -25,9 +25,12 @@ class About extends Component {
           <IconBar />
         </div>
         <div className="col-md-8">
-          <h1 className="page-header">
-            Welcome. <small>Happy to have you here!</small>
-          </h1>
+          <h2 className="page-header">
+            Welcome<span className="green">.</span>{' '}
+            <small>
+              Happy to have you here<span className="green">!</span>
+            </small>
+          </h2>
           {cards.map((card, index) => {
             return <DescriptionCard key={index} {...card} />;
           })}
