@@ -1,14 +1,13 @@
 {
-  "main.css": "static/css/main.88f7925d.css",
-  "main.css.map": "static/css/main.88f7925d.css.map",
-  "main.js": "static/js/main.fa91aaed.js",
-  "main.js.map": "static/js/main.fa91aaed.js.map",
-  "static\\media\\Resume.pdf": "static/media/Resume.411547f9.pdf",
-  "static\\media\\document.svg": "static/media/document.985c8a41.svg",
-  "static\\media\\dribbble.svg": "static/media/dribbble.40549421.svg",
-  "static\\media\\envelope.svg": "static/media/envelope.c7609c7d.svg",
-  "static\\media\\linkedin.svg": "static/media/linkedin.00f7bf1d.svg",
-  "static\\media\\map.svg": "static/media/map.046af09f.svg",
-  "static\\media\\me.png": "static/media/me.6574bd1d.png",
-  "static\\media\\spotify.svg": "static/media/spotify.9329e836.svg"
+  "main.css": "static/css/main.6beb5832.css",
+  "main.css.map": "static/css/main.6beb5832.css.map",
+  "main.js": "static/js/main.b53eacc6.js",
+  "main.js.map": "static/js/main.b53eacc6.js.map",
+  "static/media/Resume.pdf": "static/media/Resume.7bd5cc88.pdf",
+  "static/media/document.svg": "static/media/document.e525bcc1.svg",
+  "static/media/dribbble.svg": "static/media/dribbble.8d83f2ce.svg",
+  "static/media/envelope.svg": "static/media/envelope.02facbef.svg",
+  "static/media/linkedin.svg": "static/media/linkedin.dc804fd7.svg",
+  "static/media/me.png": "static/media/me.6574bd1d.png",
+  "static/media/spotify.svg": "static/media/spotify.44548dbc.svg"
 }
