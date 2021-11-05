@@ -22,7 +22,7 @@
         margin-left: 16px;
     }
 
-    .highlight 
+    a, .highlight 
     {
         color: #71c272;
     }
@@ -39,4 +39,5 @@
     .about {
         margin-top: 36px;
     }
+
 </style>
